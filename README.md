@@ -120,14 +120,6 @@ With the availability of **Electronic Health Records (EHRs)** and **real-time IC
 
 ---
 
-## 🛠 Future Improvements
-
-- 🔄 **Advanced Imputation Techniques:** Consider model-based imputations  
-- 👤 **Personalized Predictions:** Factor in patient genetics, treatments, and demographics  
-- ⏱️ **ICULOS Feature Exploration:** ICU length of stay proved influential — further analysis recommended
-
----
-
 ## ✅ Conclusion
 
 This XGBoost-powered early warning system demonstrates the potential of **machine learning** in **early sepsis detection**. With strong recall and class separation, it represents a promising direction for integrating predictive models into critical care workflows.
